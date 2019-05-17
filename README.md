@@ -1,4 +1,3 @@
 # Rpractice
 Rscript
-#nothinh to say !@#$%^@#$%^#$%^
-testing
+#nothinh to say 
